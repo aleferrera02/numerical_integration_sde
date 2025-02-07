@@ -1,4 +1,4 @@
-# numerical_integration_sde
+# SDE Approximation of the Stochastic and Noisy Gradient Descent
 
 Stochastic optimization is a fundamental area in machine learning and large-scale optimization problems. A central algorithm in this context is Stochastic Gradient Descent (SGD), widely used to minimize complex objective functions, especially when the data is large and computing the full gradient becomes impractical. This project focuses on the analysis of the SGD algorithm, examining its interpretation as a Stochastic Differential Equation (SDE). This approach provides a deeper understanding of the algorithm's behavior, particularly in scenarios where the full gradient is unavailable, such as in large-scale optimization problems.
 
